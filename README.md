@@ -24,8 +24,7 @@ Welcome to my GitHub! I'm a **Software Developer** with expertise in **PHP**, **
 
 ### 🌟 Projects
 - **[KisoTech Solutions](https://kisotech.xyz):** Founder of KisoTech, where we specialize in **Software Development**, **AI Services**, and **Cyber Security Consulting**. Currently developing **V-Pay**, a payment system leveraging **decentralized KYC** and **crypto exchange capabilities**.
-- **My_Library for HOAs:** A tailored library management solution for **Homeowner Associations**, fostering community engagement through organized access to books and media.
-- **V-Therapist:** An ongoing project aimed at providing accessible mental health services through an intuitive digital platform.
+- **Therapist:** An ongoing project aimed at providing accessible mental health services through an intuitive digital platform.
 
 ---
 
