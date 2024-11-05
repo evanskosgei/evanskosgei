@@ -14,11 +14,11 @@ Welcome to my GitHub! I'm a **Software Developer** with expertise in **PHP**, **
 
 ### 🛠️ Skills & Expertise
 - **Backend:** PHP, Laravel, Flask
-- **Frontend:** JavaScript, React Native
-- **Data & Machine Learning:** Python, Pandas, Logistic Regression, RNN
-- **DevOps & Database:** PostgreSQL, MySQL, Apache2, M-Pesa Daraja API Sandbox
-- **Tools:** Docker, DataTables, Blade, AJAX
-- **Areas of Interest:** Fintech, AI, Cyber Security, Decentralized Finance
+- **Frontend:** JavaScript, Reactjs, React Native
+- **Data & Machine Learning:** Python, Pandas, Logistic Regression, RNN, CNN
+- **DevOps & Database:** PostgreSQL, MySQL, AWS
+- **Tools:** Docker, Kubernetes
+- **Areas of Interest:** Fintech, AI, Cyber Security, BlockChain
 
 ---
 
