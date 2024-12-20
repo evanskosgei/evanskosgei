@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm a **Software Developer** with expertise in **PHP**, **
 ---
 
 ### 📈 GitHub Stats
-![Evans' GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvansKosgei&show_icons=true&theme=radical)
+![Evans' GitHub Stats](https://github-readme-stats.vercel.app/api?username=evanskosgei&show_icons=true&theme=radical)
 
 ---
 
