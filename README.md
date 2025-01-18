@@ -33,6 +33,9 @@ Welcome to my GitHub! I'm a **Software Developer** with expertise in **PHP**, **
 
 ---
 
+☕ Support Me
+If you enjoy my work or want to support my journey, feel free to Buy Me a Coffee!
+
 ### 📫 How to Reach Me
 - 📧 Email: evanskosgei090@gmail.com
 - 💼 LinkedIn: [Evans Kosgei](https://www.linkedin.com/in/evans-kosgei-kibiwott/)
