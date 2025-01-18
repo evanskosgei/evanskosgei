@@ -1,3 +1,7 @@
+
+--- 
+
+
 # 👋 Hi, I'm Evans Kosgei!
 
 Welcome to my GitHub! I'm a **Software Developer** with expertise in **PHP**, **JavaScript**, **Python**, and a knack for building reliable, secure, and innovative systems, especially in the **fintech sector**. With a background in **developing payment systems**, **integrating KYC and payment APIs**, and **full-stack development**, I’m passionate about crafting solutions that are as functional as they are user-friendly.
@@ -9,7 +13,7 @@ Welcome to my GitHub! I'm a **Software Developer** with expertise in **PHP**, **
 - 🎓 Developing my skills in **machine learning** through projects involving **Logistic Regression** and **RNN classification**.
 - 🧪 Experimenting with **chromatographic visualization** and **Blender animations** to bring scientific concepts to life.
 - 🚀 Open to exciting collaborations, especially on **AI**, **Cyber Security Consultancy**, and **Decentralized Finance (DeFi)** projects.
-  
+
 ---
 
 ### 🛠️ Skills & Expertise
@@ -33,12 +37,16 @@ Welcome to my GitHub! I'm a **Software Developer** with expertise in **PHP**, **
 
 ---
 
-☕ Support Me
-If you enjoy my work or want to support my journey, feel free to Buy Me a Coffee!
+### ☕ Support Me
+If you enjoy my work or want to support my journey, feel free to [**Buy Me a Coffee**](https://www.buymeacoffee.com/evanskosgei)!
+
+---
 
 ### 📫 How to Reach Me
 - 📧 Email: evanskosgei090@gmail.com
 - 💼 LinkedIn: [Evans Kosgei](https://www.linkedin.com/in/evans-kosgei-kibiwott/)
 - 🌐 Portfolio: [kisotech.xyz](https://kisotech.xyz)
 
-Let's connect! I'm open to discussions, collaborative projects, and new opportunities. Whether it’s developing a fintech solution, diving into AI-driven projects, or brainstorming on tech trends, feel free to reach out.
+Let's connect! I'm open to discussions, collaborative projects, and new opportunities. Whether it’s developing a fintech solution, diving into AI-driven projects, or brainstorming on tech trends, feel free to reach out. 
+
+--- 
