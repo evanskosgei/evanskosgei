@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm a **Software Developer** with expertise in **PHP**, **
 ---
 
 ### 🌟 Projects
-- **[KisoTech Solutions](https://kisotech.xyz):** Founder of KisoTech, where we specialize in **Software Development**, **AI Services**, and **Cyber Security Consulting**. Currently developing **V-Pay**, a payment system leveraging **decentralized KYC** and **crypto exchange capabilities**.
+- **[KisoByte](https://kisobyte.co.ke):** Founder of KisoByte, where we specialize in **Software Development**, **AI Services**, and **Cyber Security Consulting**. Currently developing **V-Pay**, a payment system leveraging **decentralized KYC** and **crypto exchange capabilities**.
 - **Therapist:** An ongoing project aimed at providing accessible mental health services through an intuitive digital platform.
 
 ---
@@ -45,7 +45,7 @@ If you enjoy my work or want to support my journey, feel free to [**Buy Me a Cof
 ### 📫 How to Reach Me
 - 📧 Email: evanskosgei090@gmail.com
 - 💼 LinkedIn: [Evans Kosgei](https://www.linkedin.com/in/evans-kosgei-kibiwott/)
-- 🌐 Portfolio: [kisotech.xyz](https://kisotech.xyz)
+- 🌐 Portfolio: [kisobyte.co.ke](https://kisobyte.co.ke)
 
 Let's connect! I'm open to discussions, collaborative projects, and new opportunities. Whether it’s developing a fintech solution, diving into AI-driven projects, or brainstorming on tech trends, feel free to reach out. 
 
