@@ -1,52 +1,60 @@
-
---- 
-
+---
 
 # 👋 Hi, I'm Evans Kosgei!
 
-Welcome to my GitHub! I'm a **Software Developer** with expertise in **PHP**, **JavaScript**, **Python**, and a knack for building reliable, secure, and innovative systems, especially in the **fintech sector**. With a background in **developing payment systems**, **integrating KYC and payment APIs**, and **full-stack development**, I’m passionate about crafting solutions that are as functional as they are user-friendly.
+Welcome to my GitHub! I'm a **Backend Developer & Tech Entrepreneur** passionate about building **secure, scalable, and innovative systems**. My expertise spans **Node.js, PHP, Python, and JavaScript**, with strong experience in **fintech solutions, API integrations, and AI-driven applications**.
+
+I’m also the **Founder of [KisoByte](https://kisobyte.co.ke)** — a technology company helping businesses scale smarter through **Software Development, Cybersecurity Consulting, and AI Services**.
 
 ---
 
 ### 🌍 About Me
-- 🔭 Currently working on a **finance system** with advanced **budget and strategy modules**, supporting robust financial planning.
-- 🎓 Developing my skills in **machine learning** through projects involving **Logistic Regression** and **RNN classification**.
-- 🧪 Experimenting with **chromatographic visualization** and **Blender animations** to bring scientific concepts to life.
-- 🚀 Open to exciting collaborations, especially on **AI**, **Cyber Security Consultancy**, and **Decentralized Finance (DeFi)** projects.
+
+* 🔭 Currently leading projects at **KisoByte**, including **finance systems**, **automation tools**, and **secure payment integrations**.
+* 🎓 Expanding my expertise in **AI & LLMs**, with hands-on work in **LangChain, embeddings, and agentic workflows**.
+* 🛡️ Passionate about **Cybersecurity**, from **penetration testing** to **secure infrastructure design**.
+* 🚀 Open to collaborations in **Fintech, AI/LLM applications, Cybersecurity, and DeFi projects**.
 
 ---
 
 ### 🛠️ Skills & Expertise
-- **Backend:** PHP, Laravel, Flask
-- **Frontend:** JavaScript, Reactjs, React Native
-- **Data & Machine Learning:** Python, Pandas, Logistic Regression, RNN, CNN
-- **DevOps & Database:** PostgreSQL, MySQL, AWS
-- **Tools:** Docker, Kubernetes
-- **Areas of Interest:** Fintech, AI, Cyber Security, BlockChain
+
+* **Backend:** Node.js, PHP (Laravel), Python (Flask)
+* **Frontend:** React, React Native, JavaScript/TypeScript
+* **AI & Data:** Python (Pandas, Scikit-learn), Embeddings, RNNs, LLMs (LangChain, OpenAI API)
+* **DevOps & Cloud:** PostgreSQL, MySQL, Supabase, AWS, Docker, Kubernetes
+* **Other Areas:** Payment Systems, KYC Integrations, Blockchain, Cybersecurity
 
 ---
 
 ### 🌟 Projects
-- **[KisoByte](https://kisobyte.co.ke):** Founder of KisoByte, where we specialize in **Software Development**, **AI Services**, and **Cyber Security Consulting**. Currently developing **V-Pay**, a payment system leveraging **decentralized KYC** and **crypto exchange capabilities**.
-- **Therapist:** An ongoing project aimed at providing accessible mental health services through an intuitive digital platform.
+
+* **[KisoByte](https://kisobyte.co.ke):** Driving innovation in **software, AI, and cybersecurity**. Currently working on:
+
+  * **V-Pay:** A secure payment solution with **decentralized KYC** and **crypto exchange features**.
+  * **Finance & Strategy Systems:** Budgeting, forecasting, and intelligent financial planning tools.
+* **AI Experiments:** Prototyping with **LangGraph, Pinecone, and n8n** for **LLM-powered automation workflows**.
 
 ---
 
 ### 📈 GitHub Stats
-![Evans' GitHub Stats](https://github-readme-stats.vercel.app/api?username=evanskosgei&show_icons=true&theme=radical)
+
+![Evans' GitHub Stats](https://github-readme-stats.vercel.app/api?username=evanskosgei\&show_icons=true\&theme=radical)
 
 ---
 
-### ☕ Support Me
-If you enjoy my work or want to support my journey, feel free to [**Buy Me a Coffee**](https://www.buymeacoffee.com/evanskosgei)!
+### ☕ Support My Work
+
+If you’d like to support my projects or collaborations, you can [**Buy Me a Coffee**](https://www.buymeacoffee.com/evanskosgei).
 
 ---
 
-### 📫 How to Reach Me
-- 📧 Email: evanskosgei090@gmail.com
-- 💼 LinkedIn: [Evans Kosgei](https://www.linkedin.com/in/evans-kosgei-kibiwott/)
-- 🌐 Portfolio: [kisobyte.co.ke](https://kisobyte.co.ke)
+### 📫 Let’s Connect
 
-Let's connect! I'm open to discussions, collaborative projects, and new opportunities. Whether it’s developing a fintech solution, diving into AI-driven projects, or brainstorming on tech trends, feel free to reach out. 
+* 📧 Email: **[evanskosgei090@gmail.com](mailto:evanskosgei090@gmail.com)**
+* 💼 LinkedIn: [Evans Kosgei](https://www.linkedin.com/in/evans-kosgei-kibiwott/)
+* 🌐 Website: [kisobyte.co.ke](https://kisobyte.co.ke)
 
---- 
+Always open to **collaborations, partnerships, or sharing ideas**. Let’s build something impactful! 🚀
+
+---
