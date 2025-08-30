@@ -10,7 +10,7 @@ I’m also the **Founder of [KisoByte](https://kisobyte.co.ke)** — a technolog
 
 ### 📫 Let’s Connect
 
-* 📧 Email: [evanskosgei090@gmail.com](mailto:evanskosgei090@gmail.com)
+* 📧 Email: [evanskosgei006@gmail.com](mailto:evanskosgei006@gmail.com)
 * 💼 LinkedIn: [Evans Kosgei](https://www.linkedin.com/in/evans-kosgei-kibiwott/)
 * 🌐 Website: [kisobyte.co.ke](https://kisobyte.co.ke)
 
